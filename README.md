@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ankitportportfolio.netlify.app/](https://ankitportportfolio.netlify.app/)
 
-- 💬 Ask me about **Python,Power bi,Sql,Database.**
+- 💬 Ask me about **Python,Power bi,Sql,Database Excel and BASIC of HTML,CSS ,JS.**
 
 - 📫 How to reach me **ankitvermasultanpur9026@gmail.com**
 
