@@ -5,9 +5,29 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingwithankit-tech" alt="codingwithankit-tech" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ankitverma902" target="blank"><img src="https://img.shields.io/twitter/follow/ankitverma902?logo=twitter&style=for-the-badge" alt="ankitverma902" /></a> </p>
 
-- 🌧️ I’m currently working on [Rainfall Prediction System](https://github.com/CodingwithAnkit-tech/Rain-Fall-Prediction)
+<p align="left"> 
+  
+  <a href="https://www.linkedin.com/in/ankit-verma-557a40294" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ankit Verma LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/instaman_100" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instaman_100"/>
+  </a>
+  <a href="https://ankitportportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:ankitvermasultanpur9026@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/ankitverma902" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="ankitverma902"/>
+  </a>
+</p>
+
+
+
+- 🌧️ I’m currently completed my project on  [Rainfall Prediction System](https://github.com/CodingwithAnkit-tech/Rain-Fall-Prediction)
 
 - 🌱 I’m currently learning **Python with Data Analysis**
 
