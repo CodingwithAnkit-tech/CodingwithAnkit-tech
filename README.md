@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Verma</h1>
-<h3 align="center">A passionate Python developer and data analytics enthusiast from India</h3>
+<h3 align="center">A passionate Data Analyst from India, skilled in turning data into actionable insights using Python, SQL, Power BI, and Excel.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingwithankit-tech&label=Profile%20views&color=0e75b6&style=flat" alt="codingwithankit-tech" /> </p>
 
