@@ -75,11 +75,12 @@
   
   <!-- GitHub Streak Card -->
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=CodingwithAnkit-tech&theme=tokyonight&hide_border=true&fire=DD2727&currStreakLabel=7F9CF5" alt="GitHub Streak" />
-  
+
   <!-- Top Languages Card -->
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingwithAnkit-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/codingwithankit-tech?theme=dark&font=Volkhov&ext=activity)
 
 
 
