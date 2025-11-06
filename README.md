@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ankit Verma</h1>
-<h3 align="center">A passionate Data Analyst from India, skilled in turning data into actionable insights using Python, SQL, Power BI, and Excel.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codingwithankit-tech&label=Profile%20views&color=0e75b6&style=flat" alt="codingwithankit-tech" /> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8e2de2,100:4a00e0&text=Hi,%20I'm%20Ankit%20Verma%20👋&desc=Data%20Analyst%20%7C%20Advance%20Excel%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Python%20Programming%20%7C%20HTML%20%7C%20CSS%20%7C%20JavaScript&descSize=17&fontAlignY=35&descAlignY=70&fontAlign=50&fontColor=ffffff&section=header" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingwithankit-tech" alt="codingwithankit-tech" /></a> </p>
 
@@ -83,6 +82,16 @@
 
   <!-- LeetCode Stats Card -->
   <img height="170" src="https://leetcard.jacoblin.cool/codingwithankit-tech?theme=dark&font=Vidaloka&ext=contest" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankitverma902/" target="_blank">
+    <img height="170" src="https://img.shields.io/badge/LinkedIn_Profile-View-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Card" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </p>
 
 
