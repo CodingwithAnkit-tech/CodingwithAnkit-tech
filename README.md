@@ -67,16 +67,20 @@
 <p><a href="https://www.buymeacoffee.com/@codingwithankit_tech"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@codingwithankit_tech" /></a></p><br><br> -->
 
 
-<h3 align="center">📊 GitHub Stats </h3>
+<h3 align="center">📊 GitHub Stats & Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingwithankit-tech&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- GitHub Stats Card -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CodingwithAnkit-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  
+  <!-- GitHub Streak Card -->
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=CodingwithAnkit-tech&theme=tokyonight&hide_border=true&fire=DD2727&currStreakLabel=7F9CF5" alt="GitHub Streak" />
+  
+  <!-- Top Languages Card -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingwithAnkit-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codingwithankit-tech&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codingwithankit-tech&theme=tokyonight&hide_border=true" />
-</p>
+
 
 
 
