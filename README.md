@@ -70,10 +70,10 @@
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CodingwithAnkit-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CodingwithAnkit-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   
   <!-- GitHub Streak Card -->
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=CodingwithAnkit-tech&theme=tokyonight&hide_border=true&fire=DD2727&currStreakLabel=7F9CF5" alt="GitHub Streak" />
+  <img height="170" src="https://streak-stats.demolab.com?user=CodingwithAnkit-tech&theme=tokyonight&hide_border=true&fire=DD2727&currStreakLabel=7F9CF5" alt="GitHub Streak" />
 
   <!-- Top Languages Card -->
   <p align="center">
