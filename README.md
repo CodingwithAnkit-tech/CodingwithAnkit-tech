@@ -72,8 +72,7 @@
   <!-- GitHub Stats Card -->
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=CodingwithAnkit-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   <!-- GitHub Streak Card -->
-  <img height="170" src="https://github-readme-streak-stats.vercel.app?user=CodingwithAnkit-tech&theme=tokyonight&hide_border=true&fire=DD2727&currStreakLabel=7F9CF5" alt="GitHub Streak" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodingwithAnkit-tech&theme=radical" />
   
   <!-- Top Languages Card -->
   <p align="center">
@@ -94,5 +93,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodingwithAnkit-tech&theme=radical" />
+
 
