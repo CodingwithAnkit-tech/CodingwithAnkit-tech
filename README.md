@@ -72,12 +72,12 @@
   <!-- GitHub Stats Card -->
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=CodingwithAnkit-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodingwithAnkit-tech&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodingwithAnkit-tech&theme=radical"/>
   
   <!-- Top Languages Card -->
   <p align="center">
   <!-- Top Languages Card -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingwithAnkit-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingwithAnkit-tech&layout=compact&theme=tokyonight&hide_border=true" />
 
   <!-- LeetCode Stats Card -->
   <img height="170" src="https://leetcard.jacoblin.cool/codingwithankit-tech?theme=dark&font=Vidaloka&ext=contest" alt="LeetCode Stats" />
