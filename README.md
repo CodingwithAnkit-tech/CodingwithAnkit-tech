@@ -3,7 +3,6 @@
 </p>
 
 
-<img src="https://streak-stats.demolab.com?user=CodingwithAnkit-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <p align="left"> 
   
