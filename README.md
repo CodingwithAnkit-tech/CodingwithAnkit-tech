@@ -6,9 +6,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=CodingwithAnkit-tech&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
-
-
-
 <p align="left"> 
   
   <a href="https://www.linkedin.com/in/ankit-verma-557a40294" target="_blank">
