@@ -74,7 +74,7 @@
   <!-- Top Languages Card -->
   <p align="center">
   <!-- Top Languages Card -->
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingwithAnkit-tech&layout=compact&theme=tokyonight&hide_border=true" />                
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odingwithAnkit-tech&layout=compact&theme=tokyonight&hide_border=true" />                
 
   <!-- LeetCode Stats Card -->
   <img height="170" src="https://leetcard.jacoblin.cool/codingwithankit-tech?theme=dark&font=Vidaloka&ext=contest" alt="LeetCode Stats" />
