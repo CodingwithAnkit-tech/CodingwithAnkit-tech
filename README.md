@@ -69,6 +69,7 @@
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/@codingwithankit_tech"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@codingwithankit_tech" /></a></p><br><br> -->
 
+<p align="center"> <!-- GitHub Stats Card --> <img height="170" src="https://github-readme-stats.vercel.app/api?username=CodingwithAnkit-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/> <!-- GitHub Streak Card --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodingwithAnkit-tech&theme=radical"/>
 
 
   <!-- LeetCode Stats Card -->
