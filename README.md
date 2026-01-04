@@ -70,19 +70,7 @@
 <p><a href="https://www.buymeacoffee.com/@codingwithankit_tech"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@codingwithankit_tech" /></a></p><br><br> -->
 
 
-<h3 align="center">📊 GitHub Stats & Activity</h3>
-
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CodingwithAnkit-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodingwithAnkit-tech&theme=radical" />
-
-  <!-- Top Languages Card -->
-  <p align="center">
-  <!-- Top Languages Card -->
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingwithAnkit-tech&layout=compact&theme=tokyonight&hide_border=true" />                
-
+c
   <!-- LeetCode Stats Card -->
   <img height="170" src="https://leetcard.jacoblin.cool/codingwithankit-tech?theme=dark&font=Vidaloka&ext=contest" alt="LeetCode Stats" />
 </p>
@@ -96,6 +84,5 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </p>
-
 
 
