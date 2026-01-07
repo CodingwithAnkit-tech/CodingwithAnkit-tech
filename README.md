@@ -6,7 +6,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=CodingwithAnkit-tech&theme=matrix&no-bg=true&no-frame=true" />
 </p>
 
-
 <p align="left"> 
   <a href="https://www.linkedin.com/in/ankit-verma-557a40294" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ankit Verma LinkedIn"/>
