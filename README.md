@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodingwithAnkit-tech&theme=matrix&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CodingwithAnkit-tech&theme=matrix&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
 </p>
 
 <p align="left"> 
