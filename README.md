@@ -72,7 +72,7 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
-
+<img align='center'  height="60" alt="Thanks" width="100%" src="/assets/Thanks.svg"/> 
 <!-- <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </p> -->
