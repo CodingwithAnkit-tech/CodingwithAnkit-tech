@@ -65,7 +65,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingwithAnkit-tech/&theme=rose&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=CodingwithAnkit-tech/&theme=rose&hide_border=true)
 ![](https://github-contributor-stats.vercel.app/api?username=CodingwithAnkit-tech/&limit=5&theme=rose&combine_all_yearly_contributions=true)
-[![](https://visitcount.itsvg.in/api?id=CodingwithAnkit-tech/&icon=7&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=CodingwithAnkit-tech&icon=7&color=5)](https://visitcount.itsvg.in)
 
 ## Snake Game :
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
