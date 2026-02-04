@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CodingwithAnkit-tech&theme=matrix&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
 </p>
-<h6 align="center"><img src="https://komarev.com/ghpvc/?username=CodingwithAnkit&label=Profile%20views&color=0e75b6&style=flat" alt="chclopes" />
+<h6 align="center"><img src="https://komarev.com/ghpvc/?username=CodingwithAnkit&label=Profile%20views&color=0e75b6&style=flat" alt="chclopes" /></h6>
 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/ankit-verma-557a40294" target="_blank">
