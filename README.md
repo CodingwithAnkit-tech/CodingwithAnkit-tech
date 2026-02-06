@@ -68,6 +68,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=CodingwithAnkit-tech&limit=5&theme=rose&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=CodingwithAnkit-tech&icon=7&color=5)](https://visitcount.itsvg.in)
 
+https://nirzak-streak-stats.vercel.app/?user=CodingwithAnkit-tech&theme=dark
 
 ## 📈 GitHub Activity Graph
 
