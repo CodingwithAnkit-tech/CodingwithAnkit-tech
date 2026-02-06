@@ -70,7 +70,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=CodingwithAnkit-tech&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <!-- LeetCode Stats Card -->
-  <img height="170" src="https://leetcard.jacoblin.cool/codingwithankit-tech?theme=tokyonight&font=Vidaloka&ext=contest" alt="LeetCode Stats" />
+  <img height="170" src="https://leetcard.jacoblin.cool/codingwithankit-tech?theme=dark&font=Vidaloka&ext=contest" alt="LeetCode Stats" />
   
 
 ## 📈 GitHub Activity Graph
