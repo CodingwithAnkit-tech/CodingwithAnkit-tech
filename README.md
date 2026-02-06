@@ -68,18 +68,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=CodingwithAnkit-tech&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📈 GitHub Activity Graph
 
 [![Ankit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodingwithAnkit-tech&theme=github-dark&hide_border=true)](https://github.com/CodingwithAnkit-tech)
@@ -89,4 +77,3 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
-![Thanks for visiting](https://visitcount.itsvg.in/api?id=CodingwithAnkit-tech&label=Thanks%20for%20visiting&color=0)
