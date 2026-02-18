@@ -1,11 +1,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8e2de2,100:4a00e0&text=Hi,%20I'm%20Ankit%20Verma%20👋&desc=Data%20Analyst%20%7C%20Advance%20Excel%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Python%20Programming%20%7C%20HTML%20%7C%20CSS%20%7C%20JavaScript&descSize=17&fontAlignY=35&descAlignY=70&fontAlign=50&fontColor=ffffff&section=header" />
 </p>
+![](https://github-profile-trophy.vercel.app/?username=CodingwithAnkit-tech&theme=matrix&no-bg=true&no-frame=true)
 
-<p align="center">
-  ![]("https://github-profile-trophy.vercel.app/?username=CodingwithAnkit-tech&theme=matrix&no-bg=true&no-frame=true")
+<!-- <p align="center">
   
-</p>
+  
+</p> -->
 <h6 align="center"><img src="https://komarev.com/ghpvc/?username=CodingwithAnkit&label=Profile%20views&color=0e75b6&style=flat" alt="chclopes" /></h6>
 
 <p align="left"> 
