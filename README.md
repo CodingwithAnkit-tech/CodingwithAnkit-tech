@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodingwithAnkit-tech&theme=matrix&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
+  ![]("https://github-profile-trophy.vercel.app/?username=CodingwithAnkit-tech&theme=matrix&no-bg=true&no-frame=true")
+  
 </p>
 <h6 align="center"><img src="https://komarev.com/ghpvc/?username=CodingwithAnkit&label=Profile%20views&color=0e75b6&style=flat" alt="chclopes" /></h6>
 
