@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning **Python with Data Analysis**
 
-- 🚀 I recently completed my project on [Object-Detection-using-Python-Yolo](https://github.com/CodingwithAnkit-tech/Object-Detection-using-Python-Yolo-Algorithm)
+- 🚀 I recently completed my project on [Object-Detection-using-Python-Yolo](https://github.com/CodingwithAnkit-tech/object-detection-app)
 
 - 📊 I recently completed my project on [Weather-Dashboard-in-Power-BI](https://github.com/CodingwithAnkit-tech/-Weather-Dashboard-in-Power-BI-)
 
