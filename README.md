@@ -22,27 +22,39 @@
   </a>
 </p>
 
+---
 
+## 🚀 About Me
 
-- 🌧️ I’m currently completed my project on  [Rainfall Prediction System](https://github.com/CodingwithAnkit-tech/Rain-Fall-Prediction)
+- 🎓 B.Tech CSE Student | Python & Data Enthusiast  
+- 🌧️ Built a Machine Learning project: [Rainfall Prediction System](https://github.com/CodingwithAnkit-tech/rainfall-prediction-app)  
+- 🎯 Developed Real-Time Detection: [Object Detection using YOLO](https://github.com/CodingwithAnkit-tech/object-detection-app)  
+- 📊 Created Interactive Dashboard: [Weather Dashboard in Power BI](https://github.com/CodingwithAnkit-tech/-Weather-Dashboard-in-Power-BI-)  
+- 🌐 Portfolio Website: [ankitportportfolio.netlify.app](https://ankitportportfolio.netlify.app/)  
 
-- 🌱 I’m currently learning **Python with Data Analysis**
+---
 
-- 🚀 I recently completed my project on [Object-Detection-using-Python-Yolo](https://github.com/CodingwithAnkit-tech/object-detection-app)
+## 💡 Currently
 
-- 📊 I recently completed my project on [Weather-Dashboard-in-Power-BI](https://github.com/CodingwithAnkit-tech/-Weather-Dashboard-in-Power-BI-)
+- 🌱 Currently learning Advanced Python & Data Analysis  
+- 🤖 Exploring Machine Learning and Data Visualization
 
-- 👨‍💻 I'am currently working on [https://ankitportportfolio.netlify.app/](https://ankitportportfolio.netlify.app/)
+---
 
-- 💻 My all project here [https://www.linkedin.com/in/codingwithankit-tech/](https://www.linkedin.com/in/codingwithankit-tech/)
+## 🛠️ Skills
 
-- 💬 Ask me about **Python | Power BI | SQL | Data Analysis | Advance Excel | Machine Learning| HTML|CSS|JS**
+**Python | SQL | Power BI | Data Analysis | Advanced Excel | Machine Learning | Django | HTML | CSS | JavaScript**
 
-- 📫 How to reach me **ankitvermasultanpur9026@gmail.com**
+---
 
-- 📄 Know about my experiences [https://github.com/CodingwithAnkit-tech/Resume/blob/main/Ankit%20verma%20Resume.pdf](https://github.com/CodingwithAnkit-tech/Resume/blob/main/Ankit%20verma%20Resume.pdf)
+## 📫 Contact Me
 
-- ⚡ Fun fact **I think I am so funny.**
+- 📧 Email: **ankitvermasultanpur9026@gmail.com**
+- 📄 Resume: [View Resume](https://github.com/CodingwithAnkit-tech/Resume/blob/main/Ankit%20verma%20Resume.pdf)
+
+---
+
+⚡ *Fun Fact:* I believe learning never stops 🚀
 
 <h2 align="center">🌐 Connect With Me</h2>
 
@@ -87,11 +99,10 @@
 <a href="https://www.leetcode.com/@codingwithankit-tech" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-
 </p>
 
+---
 <h2 align="center">🚀 Languages & Tools</h2>
-
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -113,7 +124,7 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
-
+---
 ![](https://github-readme-stats.vercel.app/api?username=CodingwithAnkit-tech&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingwithAnkit-tech&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=CodingwithAnkit-tech&theme=tokyonight&hide_border=true)
@@ -122,11 +133,12 @@
 <!-- LeetCode Stats Card -->
   <img height="170" src="https://leetcard.jacoblin.cool/codingwithankit-tech?theme=dark&font=Vidaloka&ext=contest" alt="LeetCode Stats" />
   
-
+---
 ## 📈 GitHub Activity Graph
 
 [![Ankit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodingwithAnkit-tech&theme=github-dark&hide_border=true)](https://github.com/CodingwithAnkit-tech)
 
+---
 ## Snake Game :
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
