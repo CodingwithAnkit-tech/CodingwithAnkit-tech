@@ -44,17 +44,50 @@
 
 - ⚡ Fun fact **I think I am so funny.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@codingwithankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@codingwithankit" height="30" width="40" /></a>
-<a href="https://twitter.com/ankitverma902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitverma902" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankit-verma-557a40294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-verma-557a40294" height="30" width="40" /></a>
-<a href="https://kaggle.com/@codingwithnkit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@codingwithnkit" height="30" width="40" /></a>
-<a href="https://instagram.com/instaman_100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instaman_100" height="30" width="40" /></a>
-<a href="https://medium.com/@codingwithnkit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@codingwithnkit" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codingwithankit123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingwithankit123" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ankitvermasulta1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankitvermasulta1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/@codingwithankit-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@codingwithankit-tech" height="30" width="40" /></a>
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/ankit-verma-557a40294" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://ankitportportfolio.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/instaman_100" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://codepen.io/@codingwithankit" target="_blank">
+<img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/ankitverma902" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://kaggle.com/@codingwithnkit" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@codingwithnkit" target="_blank">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/c/codingwithankit123" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/ankitvermasulta1" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.leetcode.com/@codingwithankit-tech" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
 </p>
 
 <h2 align="center">🚀 Languages & Tools</h2>
