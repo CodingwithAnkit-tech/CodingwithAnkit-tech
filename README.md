@@ -28,7 +28,7 @@
 
 - 🎓 B.Tech CSE Student | Python & Data Enthusiast  
 - 🌧️ Built a Machine Learning project: [Rainfall Prediction System](https://rainfall-prediction-app-4cff.onrender.com/)  
-- 🎯 Developed Real-Time Detection: [Object Detection using YOLO](https://github.com/CodingwithAnkit-tech/object-detection-app)  
+- 🎯 Developed Real-Time Detection: [Object Detection using YOLO](https://object-detection-app-u8cxuvmxtqwzrt5tyvobxk.streamlit.app/)  
 - 📊 Created Interactive Dashboard: [Weather Dashboard in Power BI](https://github.com/CodingwithAnkit-tech/-Weather-Dashboard-in-Power-BI-)  
 - 🌐 Portfolio Website: [ankitportportfolio.netlify.app](https://ankitportportfolio.netlify.app/)  
 
