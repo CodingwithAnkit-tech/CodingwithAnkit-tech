@@ -96,7 +96,7 @@
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
-<a href="https://www.youtube.com/c/codingwithankit123" target="_blank">
+<a href="https://youtube.com/@codingwithankit123?si=sXL0OdPRcUUN6w8x" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
