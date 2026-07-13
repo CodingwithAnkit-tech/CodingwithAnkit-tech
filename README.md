@@ -3,7 +3,9 @@
 </p>
 
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=codingwithankit-tech&theme=onedark)](https://github.com/codingwithankit-tech)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CodingwithAnkit-tech&theme=algolia&row=1&column=6" />
+</p>
 
 <h6 align="center"><img src="https://komarev.com/ghpvc/?username=CodingwithAnkit&label=Profile%20views&color=0e75b6&style=flat" alt="chclopes" /></h6>
 
