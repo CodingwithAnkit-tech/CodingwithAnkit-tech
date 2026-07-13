@@ -14,6 +14,9 @@
   <a href="https://instagram.com/instaman_100" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instaman_100"/>
   </a>
+  <a href="https://youtube.com/@codingwithankit123?si=iYsrGO_pVQialAVg" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
   <a href="https://codingwithankit-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
