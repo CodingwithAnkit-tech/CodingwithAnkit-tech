@@ -14,7 +14,7 @@
   <a href="https://instagram.com/instaman_100" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instaman_100"/>
   </a>
-  <a href="https://ankitportportfolio.netlify.app/" target="_blank">
+  <a href="https://codingwithankit-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:ankitvermasultanpur9026@gmail.com">
@@ -34,7 +34,7 @@
 - 🎯 Developed Real-Time Detection: [Object Detection using YOLO](https://object-detection-app-u8cxuvmxtqwzrt5tyvobxk.streamlit.app/)
 - 🎯Developed AI FAQ Assistant Chatbot : [AI FAQ Assistant](ai-faq-assistant-mtxh07brs-ankit-vermas-projects-b6fa17d6.vercel.app)  
 - 📊 Created Interactive Dashboard: [Weather Dashboard in Power BI](https://github.com/CodingwithAnkit-tech/-Weather-Dashboard-in-Power-BI-)  
-- 🌐 Portfolio Website: [ankitportportfolio.netlify.app](https://ankitportportfolio.netlify.app/)
+- 🌐 Portfolio Website: [ankitportportfolio.netlify.app](https://codingwithankit-portfolio.netlify.app/)
 - 🌐 Currently working on  : [Google Drive Upload Project](https://google-drive-upload-project.onrender.com)  
 
 ---
@@ -69,7 +69,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://ankitportportfolio.netlify.app/" target="_blank">
+<a href="https://codingwithankit-portfolio.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/🌐_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
