@@ -8,7 +8,7 @@
 <h6 align="center"><img src="https://komarev.com/ghpvc/?username=CodingwithAnkit&label=Profile%20views&color=0e75b6&style=flat" alt="chclopes" /></h6>
 
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/ankit-verma-557a40294" target="_blank">
+  <a href="https://www.linkedin.com/in/codingwithankit" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ankit Verma LinkedIn"/>
   </a>
   <a href="https://instagram.com/instaman_100" target="_blank">
