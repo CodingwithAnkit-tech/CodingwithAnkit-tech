@@ -3,22 +3,22 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodingwithAnkit-tech&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ankitiqcode-tech&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/B.Tech-CSE-8e2de2?style=flat" alt="B.Tech CSE" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat" alt="Open to Work" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/codingwithankit" target="_blank">
+  <a href="https://www.linkedin.com/in/ankitiqcode" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/instaman_100" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://youtube.com/@codingwithankit123" target="_blank">
+  <a href="https://youtube.com/@ankitiqcode123" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://codingwithankit-portfolio.netlify.app/" target="_blank">
+  <a href="https://ankitiqcode-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:ankitvermasultanpur9026@gmail.com">
@@ -48,9 +48,9 @@
 | 🌧️ **Rainfall Prediction System** | ML model that predicts rainfall from weather data | [Live App](https://rainfall-prediction-app-4cff.onrender.com/) |
 | 🎯 **Object Detection using YOLO** | Real-time object detection app | [Live App](https://object-detection-app-u8cxuvmxtqwzrt5tyvobxk.streamlit.app/) |
 | 🤖 **AI FAQ Assistant Chatbot** | Conversational assistant for answering FAQs | [Live App](https://ai-faq-assistant-mtxh07brs-ankit-vermas-projects-b6fa17d6.vercel.app/) |
-| 📊 **Weather Dashboard (Power BI)** | Interactive weather analytics dashboard | [GitHub Repo](https://github.com/CodingwithAnkit-tech/-Weather-Dashboard-in-Power-BI-) |
-| 🌐 **Portfolio Website** | Personal portfolio showcasing my work | [Visit Site](https://codingwithankit-portfolio.netlify.app/) |
-| 📺 **YouTube Channel** | Sharing what I learn about data & code | [Watch](https://youtube.com/@codingwithankit123) |
+| 📊 **Weather Dashboard (Power BI)** | Interactive weather analytics dashboard | [GitHub Repo](https://github.com/Ankitiqcode-tech/-Weather-Dashboard-in-Power-BI-) |
+| 🌐 **Portfolio Website** | Personal portfolio showcasing my work | [Visit Site](https://ankitiqcode-portfolio.netlify.app/) |
+| 📺 **YouTube Channel** | Sharing what I learn about data & code | [Watch](https://youtube.com/@ankitiqcode123) |
 
 ---
 
@@ -89,26 +89,26 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodingwithAnkit-tech&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingwithAnkit-tech&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankitiqcode-tech&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitiqcode-tech&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=CodingwithAnkit-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ankitiqcode-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/codingwithankit-tech?theme=dark&font=Vidaloka&ext=contest" alt="LeetCode Stats" height="170"/>
+  <img src="https://leetcard.jacoblin.cool/ankitiqcode-tech?theme=dark&font=Vidaloka&ext=contest" alt="LeetCode Stats" height="170"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/CodingwithAnkit-tech">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodingwithAnkit-tech&theme=github-dark&hide_border=true" alt="Ankit's GitHub Activity Graph"/>
+  <a href="https://github.com/Ankitiqcode-tech">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitiqcode-tech&theme=github-dark&hide_border=true" alt="Ankit's GitHub Activity Graph"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodingwithAnkit-tech&theme=algolia&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ankitiqcode-tech&theme=algolia&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -116,19 +116,19 @@
 ### 🌐 Find Me Elsewhere
 
 <p align="center">
-<a href="https://kaggle.com/codingwithnkit" target="_blank">
+<a href="https://kaggle.com/ankitiqcode" target="_blank">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
-<a href="https://medium.com/@codingwithnkit" target="_blank">
+<a href="https://medium.com/@ankitiqcode" target="_blank">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 <a href="https://www.hackerrank.com/ankitvermasulta1" target="_blank">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/codingwithankit-tech" target="_blank">
+<a href="https://leetcode.com/ankitiqcode-tech" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-<a href="https://codepen.io/codingwithankit" target="_blank">
+<a href="https://codepen.io/ankitiqcode" target="_blank">
 <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
 </a>
 </p>
@@ -138,8 +138,8 @@
 ### 📫 Contact Me
 
 - 📧 **Email:** [ankitvermasultanpur9026@gmail.com](mailto:ankitvermasultanpur9026@gmail.com)
-- 📄 **Resume:** [View Resume](https://github.com/CodingwithAnkit-tech/Resume/blob/main/Ankit(DA).pdf)
-- 💼 **LinkedIn:** [codingwithankit](https://www.linkedin.com/in/codingwithankit)
+- 📄 **Resume:** [View Resume](https://github.com/Ankitiqcode-tech/Resume/blob/main/Ankit(DA).pdf)
+- 💼 **LinkedIn:** [ankitiqcode](https://www.linkedin.com/in/ankitiqcode)
 
 ---
 
