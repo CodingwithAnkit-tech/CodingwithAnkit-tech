@@ -15,7 +15,7 @@
   <a href="https://instagram.com/instaman_100" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://youtube.com/@ankitiqcode123" target="_blank">
+  <a href="https://youtube.com/@ankitiqcode" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://ankitiqcode-portfolio.netlify.app/" target="_blank">
@@ -50,7 +50,7 @@
 | 🤖 **AI FAQ Assistant Chatbot** | Conversational assistant for answering FAQs | [Live App](https://ai-faq-assistant-mtxh07brs-ankit-vermas-projects-b6fa17d6.vercel.app/) |
 | 📊 **Weather Dashboard (Power BI)** | Interactive weather analytics dashboard | [GitHub Repo](https://github.com/Ankitiqcode-tech/-Weather-Dashboard-in-Power-BI-) |
 | 🌐 **Portfolio Website** | Personal portfolio showcasing my work | [Visit Site](https://ankitiqcode-portfolio.netlify.app/) |
-| 📺 **YouTube Channel** | Sharing what I learn about data & code | [Watch](https://youtube.com/@ankitiqcode123) |
+| 📺 **YouTube Channel** | Sharing what I learn about data & code | [Watch](https://youtube.com/@ankitiqcode) |
 
 ---
 
