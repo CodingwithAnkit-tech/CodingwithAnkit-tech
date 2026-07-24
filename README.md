@@ -138,7 +138,7 @@
 ### 📫 Contact Me
 
 - 📧 **Email:** [ankitvermasultanpur9026@gmail.com](mailto:ankitvermasultanpur9026@gmail.com)
-- 📄 **Resume:** [View Resume](https://github.com/Ankitiqcode-tech/Resume/blob/main/Ankit(DA).pdf)
+- 📄 **Resume:** [View Resume](https://github.com/ankitiqcode/Ankit-Verma-Resume)
 - 💼 **LinkedIn:** [ankitiqcode](https://www.linkedin.com/in/ankitiqcode)
 
 ---
