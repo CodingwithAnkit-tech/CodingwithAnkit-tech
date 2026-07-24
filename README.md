@@ -48,7 +48,7 @@
 | 🌧️ **Rainfall Prediction System** | ML model that predicts rainfall from weather data | [Live App](https://rainfall-prediction-app-4cff.onrender.com/) |
 | 🎯 **Object Detection using YOLO** | Real-time object detection app | [Live App](https://object-detection-app-u8cxuvmxtqwzrt5tyvobxk.streamlit.app/) |
 | 🤖 **AI FAQ Assistant Chatbot** | Conversational assistant for answering FAQs | [Live App](https://ai-faq-assistant-mtxh07brs-ankit-vermas-projects-b6fa17d6.vercel.app/) |
-| 📊 **Weather Dashboard (Power BI)** | Interactive weather analytics dashboard | [GitHub Repo](https://github.com/Ankitiqcode-tech/-Weather-Dashboard-in-Power-BI-) |
+| 📊 **Weather Dashboard (Power BI)** | Interactive weather analytics dashboard | [GitHub Repo](https://github.com/ankitiqcode/-Weather-Dashboard-in-Power-BI-) |
 | 🌐 **Portfolio Website** | Personal portfolio showcasing my work | [Visit Site](https://ankitiqcode-portfolio.netlify.app/) |
 | 📺 **YouTube Channel** | Sharing what I learn about data & code | [Watch](https://youtube.com/@ankitiqcode) |
 
